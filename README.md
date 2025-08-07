@@ -1,5 +1,5 @@
 # 🛒 Backend — Carrito de Compras | Prueba Técnica 2025
-
+Este proyecto resuelve la lógica de un sistema de carrito de compras para una prueba técnica. Permite consultar productos, agregarlos a un carrito, eliminarlos y obtener recomendaciones de compra según presupuesto disponible. Desarrollado en Java 17 + Spring Boot 3, con arquitectura limpia y endpoints REST listos para consumir desde cualquier frontend.
 Backend desarrollado en **Java 17 + Spring Boot 3**, expone una API REST para gestión de productos y carrito de compras.
 
 ---
